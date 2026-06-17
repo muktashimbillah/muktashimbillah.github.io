@@ -98,7 +98,7 @@
 
 <script>
 import emailjs from "@emailjs/browser";
-import Icon from "./Icon.vue";
+import Icon from "../ui/Icon.vue";
 
 // Initialize EmailJS - Replace with your public key from emailjs.com
 // Daftar gratis di: https://www.emailjs.com/

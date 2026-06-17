@@ -7,8 +7,8 @@ package-lock.json
 dist
 
 # Editor directories and files
-.vscode/
-.idea/
+.vscode
+.idea
 .DS_Store
 
 # System files

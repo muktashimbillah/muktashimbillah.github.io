@@ -26,7 +26,9 @@
               <span>muktashim-billah</span>
             </a>
             <a href="mailto:muktasim.elfatih@gmail.com" class="contact-link">
-              <div class="contact-link-icon"><Icon name="email" size="14" /></div>
+              <div class="contact-link-icon">
+                <Icon name="email" size="14" />
+              </div>
               <span>muktasim.elfatih@gmail.com</span>
             </a>
             <a
@@ -34,7 +36,9 @@
               target="_blank"
               class="contact-link"
               title="WhatsApp">
-              <div class="contact-link-icon"><Icon name="whatsapp" size="14" /></div>
+              <div class="contact-link-icon">
+                <Icon name="whatsapp" size="14" />
+              </div>
               <span>WhatsApp — open DMs</span>
             </a>
           </div>
